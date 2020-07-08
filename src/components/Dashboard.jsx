@@ -40,7 +40,7 @@ function Dashboard({ country, allstats, chart, loading }) {
       <Grid
         container
         direction="row"
-        justify="center"
+        justify="space-around"
         spacing={3}
         className={classes.grid}
       >

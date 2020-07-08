@@ -102,7 +102,7 @@ function CountryInfo({ country, chart, loading }) {
         })}
       </Grid>
       <Grid item sm className={classes.grid}>
-        <Line data={chartData(chart)} width={80} height={30} />
+        <Line data={chartData(chart)} width={80} height={50} />
       </Grid>
     </Grid>
   ) : (
