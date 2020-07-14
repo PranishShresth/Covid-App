@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
     color: "#ffffff",
   },
   grid: {
-    margin: "15px",
+    margin: "30px",
   },
 }));
 
@@ -101,7 +101,7 @@ function CountryInfo({ country, chart, loading }) {
           );
         })}
       </Grid>
-      <Grid item sm className={classes.grid}>
+      <Grid item md className={classes.grid}>
         <Line data={chartData(chart)} width={80} height={50} />
       </Grid>
     </Grid>
