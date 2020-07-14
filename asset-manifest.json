@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Covid-App/static/css/main.7a41448a.chunk.css",
+    "main.js": "/Covid-App/static/js/main.2ea29e2b.chunk.js",
+    "main.js.map": "/Covid-App/static/js/main.2ea29e2b.chunk.js.map",
+    "runtime-main.js": "/Covid-App/static/js/runtime-main.f7a90102.js",
+    "runtime-main.js.map": "/Covid-App/static/js/runtime-main.f7a90102.js.map",
+    "static/js/2.811caefa.chunk.js": "/Covid-App/static/js/2.811caefa.chunk.js",
+    "static/js/2.811caefa.chunk.js.map": "/Covid-App/static/js/2.811caefa.chunk.js.map",
+    "index.html": "/Covid-App/index.html",
+    "precache-manifest.e3be1e23e3872b1f8c81e0f1215ba4f2.js": "/Covid-App/precache-manifest.e3be1e23e3872b1f8c81e0f1215ba4f2.js",
+    "service-worker.js": "/Covid-App/service-worker.js",
+    "static/css/main.7a41448a.chunk.css.map": "/Covid-App/static/css/main.7a41448a.chunk.css.map",
+    "static/js/2.811caefa.chunk.js.LICENSE.txt": "/Covid-App/static/js/2.811caefa.chunk.js.LICENSE.txt",
+    "static/media/Spinner.gif": "/Covid-App/static/media/Spinner.7e59da11.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a90102.js",
+    "static/js/2.811caefa.chunk.js",
+    "static/css/main.7a41448a.chunk.css",
+    "static/js/main.2ea29e2b.chunk.js"
+  ]
+}
